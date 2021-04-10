@@ -2,6 +2,7 @@
 A bot to play the game Friday Night Funkin
 
 ~~The java bot is basically better in every way, but I put the python bot as well because why not~~
+
 The python version of the bot is very effective, if you want you can run the java version but it wont be as good.
 
 **How to run:**
