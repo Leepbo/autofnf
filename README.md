@@ -3,9 +3,14 @@ A bot to play the game Friday Night Funkin
 
 ~~The java bot is basically better in every way, but I put the python bot as well because why not~~
 
-USE THE PYTHON BOT, IDK WHY I DIDNT FIGURE THIS OUT SOONER
+The python version of the bot is very effective, if you want you can run the java version but it wont be as good.
 
 **How to run:**
+
+Python:
+cd into the directory that the file is in with cmd and run:
+
+"python fnf-test.py"
 
 Java:
 cd into the directory that the file is in with cmd and run:
@@ -13,11 +18,6 @@ cd into the directory that the file is in with cmd and run:
 "javac fnftest.java"
 
 "java fnftest"
-
-Python:
-cd into the directory that the file is in with cmd and run:
-
-"python fnf-test.py"
 
 **How to line up the arrows:**
 
